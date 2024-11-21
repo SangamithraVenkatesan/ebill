@@ -1,0 +1,16 @@
+
+body
+{
+margin:auto;
+width:30%;
+height:40%;
+border:3px solid purple;
+padding:10px;
+justify-content:center;
+align-items:center;
+background-image:url("bill.jpg");
+background-repeat:no-repeat;
+background-attachment: fixed;
+background-position: center;
+
+}
